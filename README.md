@@ -43,6 +43,7 @@ total = price_1 + price_2 + price_3;
 cout << "total: " << total << endl;
 
 return 0;
+
 }
 
 
